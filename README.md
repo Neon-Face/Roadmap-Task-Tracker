@@ -1,8 +1,7 @@
 # CLI Task Tracker
 
 ## Project URL:
-
-https://github.com/Neon-Face/Roadmap-Task-Tracker
+https://roadmap.sh/projects/task-tracker
 
 ## Introduction
 
