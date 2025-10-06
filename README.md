@@ -1,5 +1,11 @@
 # CLI Task Tracker
 
+## Project URL:
+
+https://github.com/Neon-Face/Roadmap-Task-Tracker
+
+## Introduction
+
 A simple command-line interface (CLI) application for tracking and managing your tasks. This project helps you keep track of what you need to do, what you are currently working on, and what you have accomplished, all from your terminal.
 
 ## Features
